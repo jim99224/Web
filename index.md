@@ -1,7 +1,7 @@
 ## 我愛柯基
 <style>
   .smaller-image {
-    width: 10px;
+    width: 200px;
   }
 </style>
 
