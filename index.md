@@ -1,4 +1,10 @@
 ## 我愛柯基
+<style>
+  .smaller-image {
+    width: 10px;
+  }
+</style>
+
 
 You can use the [editor on GitHub](https://github.com/jim99224/Web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +13,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+<img class="smaller-image" src="https://pic3.zhimg.com/v2-4d4e4fe096e076d527274084c664c592_1200x500.jpg" alt="Author standing on a beach with two thumbs up."></img>
+
+
 
 ```markdown
 Syntax highlighted code block
