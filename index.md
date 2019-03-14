@@ -44,8 +44,11 @@
 Youtube 
 [https://www.youtube.com/watch?v=9_CHMgjXysY&t=4s](https://www.youtube.com/watch?v=9_CHMgjXysY&t=4s)
 
-蛋蛋讚 
+<img class="smallest-image" src="http://www.twoeggz.com/res/images/logo.png" alt="corgis">
+蛋蛋讚
+
 [http://www.twoeggz.com/wenda/7175436_3.html](http://www.twoeggzcom/wenda/7175436_3.html)
 
 中國時報 
+
 [https://www.chinatimes.com/newspapers/20181117000655-260107](https://www.chinatimes.com/newspapers/20181117000655-260107)
