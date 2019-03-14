@@ -6,6 +6,9 @@
   .bigger-image{
     width: 400px;
   }
+  .smallest-image{
+    width: 150px;
+  }
 </style>
 <img class="smaller-image" src="https://img.chinatimes.com/newsphoto/2018-11-17/656/b13a00_p_05_02.jpg" alt="corgis">
 
@@ -33,11 +36,12 @@
 
 ### 參考資料
 
-# 維基百科
+<img class="smallest-image" src="https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5" alt="corgis">
+維基百科
 [https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC)
-# Youtube 
+Youtube 
 [https://www.youtube.com/watch?v=9_CHMgjXysY&t=4s](https://www.youtube.com/watch?v=9_CHMgjXysY&t=4s)
-# 蛋蛋讚 
+蛋蛋讚 
 [http://www.twoeggz.com/wenda/7175436_3.html](http://www.twoeggz.com/wenda/7175436_3.html)
-# 中國時報 
+中國時報 
 [https://www.chinatimes.com/newspapers/20181117000655-260107](https://www.chinatimes.com/newspapers/20181117000655-260107)
