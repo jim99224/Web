@@ -7,7 +7,7 @@
     width: 400px;
   }
   .smallest-image{
-    width: 150px;
+    width: 50px;
   }
 </style>
 <img class="smaller-image" src="https://img.chinatimes.com/newsphoto/2018-11-17/656/b13a00_p_05_02.jpg" alt="corgis">
