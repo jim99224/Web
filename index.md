@@ -22,6 +22,7 @@
 短腿可能似乎是個缺點，但是因為他們的跑步方式以及他們精力充沛的原因，他們其實跑得比其他犬種還要更快。
 雖然有時仍作為工作犬，他們今日通常是養來做夥伴動物，他們是快樂可愛且殷勤於取悅人的犬隻。
 潘布魯克是聰明思路快的犬隻，訓練他們的難易有各種說法,一些專家認為他們因聰明而容易訓練,另一些則覺得因聰明而懂得抓住主人的漏洞，但他們取悅人的慾望，讓他們可以藉著讚美來成功訓練。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_CHMgjXysY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### 健康
 
 脊椎的長度可能造成脊椎的問題跟早發的關節炎，柯基犬通常能活大約 12到14歲。
