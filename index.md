@@ -12,7 +12,7 @@
 </style>
 <img class="smaller-image" src="https://img.chinatimes.com/newsphoto/2018-11-17/656/b13a00_p_05_02.jpg" alt="corgis">
 
-### 外觀
+### <p style="color: blue">外觀</p>
 
 潘布魯克柯基犬是肩高介於25到30公分不重於15公斤的犬。 雄犬在最佳狀況大約27磅（12kg）雌犬大概再輕2磅（10kg）。
 潘布魯克可以是紅、黑貂色、淺黃棕色或（黑和古銅色），部分潘布魯克在腿胸頸口吻部及腹部有白色斑，白色窄條紋在頭部，太多的白色在展覽犬視為缺點。
