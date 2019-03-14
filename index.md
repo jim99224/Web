@@ -40,11 +40,12 @@
 維基百科
 [https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC)
 
+<img class="smallest-image" src="https://www.youtube.com/yts/img/yt_1200-vfl4C3T0K.png" alt="corgis">
 Youtube 
 [https://www.youtube.com/watch?v=9_CHMgjXysY&t=4s](https://www.youtube.com/watch?v=9_CHMgjXysY&t=4s)
 
 蛋蛋讚 
-[http://www.twoeggz.com/wenda/7175436_3.html](http://www.twoeggz.com/wenda/7175436_3.html)
+[http://www.twoeggz.com/wenda/7175436_3.html](http://www.twoeggzcom/wenda/7175436_3.html)
 
 中國時報 
 [https://www.chinatimes.com/newspapers/20181117000655-260107](https://www.chinatimes.com/newspapers/20181117000655-260107)
