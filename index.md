@@ -36,7 +36,7 @@
 
 ### 參考資料
 
-<img class="smallest-image" src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjkpuTH9YHhAhVnHKYKHc8SBZQQjRx6BAgBEAU&url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25B8%25AD%25E6%2596%2587%25E7%25BB%25B4%25E5%259F%25BA%25E7%2599%25BE%25E7%25A7%2591&psig=AOvVaw3aDTxpdJ3MhOsCfYp4gG6r&ust=1552662732908776" alt="corgis">
+<img class="smallest-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wikipedia-logo-v2-zh.svg/220px-Wikipedia-logo-v2-zh.svg.png" alt="corgis">
 維基百科
 [https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC)
 
