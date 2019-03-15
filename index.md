@@ -34,6 +34,11 @@
 
 與卡狄脊犬同屬柯基犬類，其歷史很新，但也可追溯到一千一百年前，此犬種的祖先與比利時的工人一起越過英吉利海峽來到英國，到了十九世紀中葉，才彼交配而成。另外，也有一種傳說是此犬種的祖先是博美與吉娃娃。
 
+<h6 style="color: blue; font-weight: bold;font-size:1cm">飼養心得</h6>
+
+個人覺得柯基非常的難養，因為柯基需要很大的運動量而且又很會掉毛。
+如果兩三天沒有帶柯基出去散步，柯基的心情會明顯的憂鬱。
+強烈建議有過敏的人，不要飼養柯基犬。
 <h5 style="color: blue; font-weight: bold;font-size:1cm">參考資料</h5>
 
 <img class="smallest-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wikipedia-logo-v2-zh.svg/220px-Wikipedia-logo-v2-zh.svg.png" alt="corgis">
