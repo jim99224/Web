@@ -38,7 +38,7 @@
 
 個人覺得柯基非常的難養，因為柯基需要很大的運動量而且又很會掉毛。
 如果兩三天沒有帶柯基出去散步，柯基的心情會明顯的憂鬱。
-強烈建議有過敏的人，不要飼養柯基犬。
+強烈建議有過敏的人不要飼養柯基犬，柯基毛很多而且一年四季都在掉毛。
 <h6 style="color: blue; font-weight: bold;font-size:1cm">參考資料</h6>
 
 <img class="smallest-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wikipedia-logo-v2-zh.svg/220px-Wikipedia-logo-v2-zh.svg.png" alt="corgis">
