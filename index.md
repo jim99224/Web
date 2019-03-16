@@ -33,6 +33,7 @@
 脊椎的長度可能造成脊椎的問題跟早發的關節炎，柯基犬通常能活大約 12到14歲。
 潘布魯克如果沒有保持運動和過度餵食可能容易造成過胖，這對他們瘦長的背不好。
 ---資料取自[維基百科](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC)
+
 <img class="bigger-image" src="http://p3.pstatp.com/large/5fef00064c18030338ba" alt="corgis">
 <h4 style="color: blue; font-weight: bold;font-size:1cm">歷史</h4>
 
