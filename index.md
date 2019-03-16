@@ -26,7 +26,6 @@
 短腿可能似乎是個缺點，但是因為他們的跑步方式以及他們精力充沛的原因，他們其實跑得比其他犬種還要更快。
 雖然有時仍作為工作犬，他們今日通常是養來做夥伴動物，他們是快樂可愛且殷勤於取悅人的犬隻。
 潘布魯克是聰明思路快的犬隻，訓練他們的難易有各種說法,一些專家認為他們因聰明而容易訓練,另一些則覺得因聰明而懂得抓住主人的漏洞，但他們取悅人的慾望，讓他們可以藉著讚美來成功訓練。---資料取自[維基百科](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC)
-<img class="bigger-image" src="http://p3.pstatp.com/large/5fef00064c18030338ba" alt="corgis">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9_CHMgjXysY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h3 style="color: blue; font-weight: bold;font-size:1cm">健康</h3>
 
@@ -34,11 +33,9 @@
 潘布魯克如果沒有保持運動和過度餵食可能容易造成過胖，這對他們瘦長的背不好。
 ---資料取自[維基百科](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC)
 
-<img class="bigger-image" src="http://p3.pstatp.com/large/5fef00064c18030338ba" alt="corgis">
 <h4 style="color: blue; font-weight: bold;font-size:1cm">歷史</h4>
 
 與卡狄脊犬同屬柯基犬類，其歷史很新，但也可追溯到一千一百年前，此犬種的祖先與比利時的工人一起越過英吉利海峽來到英國，到了十九世紀中葉，才彼交配而成。另外，也有一種傳說是此犬種的祖先是博美與吉娃娃。---資料取自[維基百科](https://zh.wikipedia.org/wiki/%E6%BD%98%E5%B8%83%E9%AD%AF%E5%85%8B%E5%A8%81%E7%88%BE%E6%96%AF%E6%9F%AF%E5%9F%BA%E7%8A%AC)
-<img class="bigger-image" src="http://p3.pstatp.com/large/5fef00064c18030338ba" alt="corgis">
 
 <h5 style="color: blue; font-weight: bold;font-size:1cm">飼養心得</h5>
 
