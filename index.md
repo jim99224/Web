@@ -71,4 +71,4 @@ Youtube
 [https://www.chinatimes.com/newspapers/20181117000655-260107](https://www.chinatimes.com/newspapers/20181117000655-260107)
 
 <!-- Create an anchor tag -->
- <a type="button" class="top" href="#">返回頂部</a>
+ <a type="button" class="top" href="#">返回頂</a>
