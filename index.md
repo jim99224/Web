@@ -10,7 +10,7 @@
     width: 50px;
   }
   .image-position{
-    width: 20px:
+    width: 10px:
   }
 $(function(){
 	$(window).scroll(function(){  //只要窗口滚动,就触发下面代码 
