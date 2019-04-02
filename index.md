@@ -9,6 +9,10 @@
   .smallest-image{
     width: 50px;
   }
+  $('a.top').click(function (e) { 
+     e.preventDefault();
+    $(document.body).animate({scrollTop: 0}, 800);
+   });
 </style>
 <img class="smaller-image" src="https://img.chinatimes.com/newsphoto/2018-11-17/656/b13a00_p_05_02.jpg" alt="corgis">
 
@@ -65,3 +69,6 @@ Youtube
 中國時報 
 
 [https://www.chinatimes.com/newspapers/20181117000655-260107](https://www.chinatimes.com/newspapers/20181117000655-260107)
+
+<!-- Create an anchor tag -->
+ <a type="button" class="top" href="#">返回頂部</a>
