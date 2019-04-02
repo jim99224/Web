@@ -10,6 +10,7 @@
     width: 50px;
   }
   .image-position{
+    width: 50px:
     left: 400px:
   }
 $(function(){
