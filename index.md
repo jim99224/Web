@@ -86,4 +86,3 @@ Youtube
    <img class="image-position" src="http://ku.90sjimg.com/element_pic/01/47/99/5957440d660e421.jpg" alt="gottotop" style="position:relative;top:0px;left:550px;width: 40px;">
 </a>
 
-我肏你媽嗎
