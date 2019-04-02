@@ -9,19 +9,6 @@
   .smallest-image{
     width: 50px;
   }
-  $(function(){
-	  $('#BackTop').click(function(){ 
-		$('html,body').animate({scrollTop:0}, 333);
-	});
-	$(window).scroll(function() {
-		if ( $(this).scrollTop() > 300 ){
-			$('#BackTop').fadeIn(222);
-		} 
-    else {
-			$('#BackTop').stop().fadeOut(222);
-		}
-	  }).scroll();
-  });
 </style>
 <img class="smaller-image" src="https://img.chinatimes.com/newsphoto/2018-11-17/656/b13a00_p_05_02.jpg" alt="corgis">
 
@@ -79,5 +66,18 @@ Youtube
 
 [https://www.chinatimes.com/newspapers/20181117000655-260107](https://www.chinatimes.com/newspapers/20181117000655-260107)
 
-<!-- Create an anchor tag -->
- <button type="button" id="BackTop" class="toTop-arrow"></button>
+<button type="button" id="BackTop" class="toTop-arrow"></button>
+<script>
+$(function(){
+	$('#BackTop').click(function(){ 
+		$('html,body').animate({scrollTop:0}, 333);
+	});
+	$(window).scroll(function() {
+		if ( $(this).scrollTop() > 300 ){
+			$('#BackTop').fadeIn(222);
+		} else {
+			$('#BackTop').stop().fadeOut(222);
+		}
+	}).scroll();
+});
+</script>
