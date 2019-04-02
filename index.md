@@ -11,7 +11,6 @@
   }
   .image-position{
     width: 50px:
-    left: 400px:
   }
 $(function(){
 	$(window).scroll(function(){  //只要窗口滚动,就触发下面代码 
@@ -84,5 +83,5 @@ Youtube
 
 
 <a id="gotop" href="#">   
-   <img class="image-position" src="http://ku.90sjimg.com/element_pic/01/47/99/5957440d660e421.jpg" alt="gottotop">
+   <img class="image-position" src="http://ku.90sjimg.com/element_pic/01/47/99/5957440d660e421.jpg" alt="gottotop" style="position:absolute;top:0px;left:400px;>
 </a>
