@@ -9,7 +9,7 @@
   .smallest-image{
     width: 50px;
   }
-  $('a.top').click(function (e) { 
+  .top{ 
      e.preventDefault();
     $(document.body).animate({scrollTop: 0}, 800);
    });
