@@ -66,7 +66,7 @@ Youtube
 
 [https://www.chinatimes.com/newspapers/20181117000655-260107](https://www.chinatimes.com/newspapers/20181117000655-260107)
 
-<button type="button" id="BackTop" class="toTop-arrow"></button>
+<button type="button" id="BackTop" class="toTop-arrow">按我</button>
 <script>
 $(function(){
 	$('#BackTop').click(function(){ 
