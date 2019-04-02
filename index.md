@@ -9,6 +9,9 @@
   .smallest-image{
     width: 50px;
   }
+  .image-position{
+    left: 400px:
+  }
 $(function(){
 	$(window).scroll(function(){  //只要窗口滚动,就触发下面代码 
 	var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //获取滚动后的高度 
@@ -80,5 +83,5 @@ Youtube
 
 
 <a id="gotop" href="#">   
-   <img class="smallest-image" src="http://ku.90sjimg.com/element_pic/01/47/99/5957440d660e421.jpg" alt="gottotop">
+   <img class="image-position" src="http://ku.90sjimg.com/element_pic/01/47/99/5957440d660e421.jpg" alt="gottotop">
 </a>
